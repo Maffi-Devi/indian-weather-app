@@ -76,5 +76,5 @@ _(Replace `yourusername` with your actual GitHub username if you're using GitHub
 
 ## 🧠 Author
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Maffi Devi.  
 Feel free to ⭐ the repo if you like it!
